@@ -5,7 +5,7 @@ This project involves the analysis of a music store database using SQL. The prim
 
 # Database and Tools :-
 * Postgre SQL
-* pgAdmin4
+* pgAdmin 4
 
 # Conclusion
 This project demonstrates the application of SQL for data analysis in a real-world scenario, providing valuable insights to help the music store optimize its operations and enhance customer satisfaction.
